@@ -1,15 +1,15 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/imran-kadiwala/Imran-Kadiwala.github.io/blob/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/imran-kadiwala/imrankadiwala.in/blob/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The Second iteration of <a href="https://Imran-Kadiwala.github.io" target="_blank">Imran-Kadiwala.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The Second iteration of <a href="https://imrankadiwala.in" target="_blank">imrankadiwala.in</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/imran-kadiwala/Imran-Kadiwala.github.io/blob/main/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/imran-kadiwala/imrankadiwala.in/blob/main/src/images/demo.png" />
 </div>
 
 ### TL;DR
