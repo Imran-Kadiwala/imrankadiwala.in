@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://imrankadiwala.in/sitemap/sitemap-index.xml
+Host: https://imrankadiwala.in
