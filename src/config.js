@@ -4,7 +4,7 @@ module.exports = {
     'Imran Kadiwala is a Solution Architect | Data Engineer | Software Developer at Morgan Stanley, Enthuasitic to learn new things and helping business grow using technologies.',
   siteKeywords:
     'Imran Kadiwala, Imran, Kadiwala, Imran-Kadiwala, Solution Architect, Data Engineer, Real time data analytics, software developer, software engineer, AWS Data engineer, Azure data engineer, GCP, spark developer, consultant',
-  siteUrl: 'https://Imran-Kadiwala.github.io/',
+  siteUrl: 'https://imrankadiwala.in/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-G56XBBLXZ9',
   googleVerification: '',
